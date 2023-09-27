@@ -39,7 +39,7 @@
 
     font-family: var(--fonte-principal);
     color: var(--azul);
-    background: url("../img/email.svg");
+    background: url("../img/Email.svg");
     background-repeat: no-repeat;
     background-position: 1.5rem;
     text-align: center;
