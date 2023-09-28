@@ -11,3 +11,10 @@ Projeto de uma livraria online voltada para a área de TI feito durante o curso 
 
 ## Screenshots
 ![Screenshot da tela inicial do AluraBooks](https://github.com/gabrieldenti/alurabooks/blob/main/img/Print%20do%20site%20AluraBooks.png?raw=true)
+
+## Feito por:
+
+### Gabriel Denti
+
+### Linkedin: https://www.linkedin.com/in/gabriel-denti-06643121a/
+
